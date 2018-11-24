@@ -1,2 +1,2 @@
-# Logistic_Regression
-sample logistic regression
+# Linear and Logistic Regression
+sample linear and logistic regression
